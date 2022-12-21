@@ -1,6 +1,6 @@
 # Windows-Live-Photo-Gallery
  
-Designed the WLPG Setup Workflow:
+Design of the WLPG Setup Workflow:
 ![image](https://user-images.githubusercontent.com/17112412/208660673-505c3e27-cd6e-421e-8803-75814db1175f.png)
 
 ![image](https://user-images.githubusercontent.com/17112412/208660325-611e7ae5-2592-4c9a-8da5-2d69d63f5fa2.png)
@@ -11,12 +11,20 @@ Designed the WLPG Setup Workflow:
 
 ![image](https://user-images.githubusercontent.com/17112412/208660252-fb5be146-8a10-4119-87f1-63287d2923af.png)
 
+![image](https://user-images.githubusercontent.com/17112412/208816938-5173f3a0-acc0-4b0d-ba78-061e4169ae3c.png)
+
+![image](https://user-images.githubusercontent.com/17112412/208817159-fa062ff7-51eb-48ff-b207-be58a99d18d9.png)
+
+![image](https://user-images.githubusercontent.com/17112412/208817239-4ad2f7c9-97a2-464e-a638-d6b71042ef90.png)
 
 =========================================================
 
 Architecture of WLPG:
 
 ![image](https://user-images.githubusercontent.com/17112412/208661496-16645bc1-5f62-40ea-b23d-52763b678872.png)
+
+Photo Acquisition Design:
+![image](https://user-images.githubusercontent.com/17112412/208818502-fdd16c31-1966-4437-8b06-603ed45e1f03.png)
 
 
 Publish-Subscribe flow:
